@@ -1,0 +1,32 @@
+<Drawer> Draw 2 cards.
+<Scryer> Scry 3 cards,
+<Sifter> Draw 2 cards. After you're done drawing, put 1 card back for each time you used this ability.
+<Hogger> Store 1 Eye. Take back at the end of Night.
+<Smuggler> Store or take 1 Contraband. Max 2.
+<Rumourmonger> Shuffle a Contraband into the Deck for 2 Rep.
+<Black-Out_Muscle> Reduce Rep cost of stopping a Jakorta Ally by 1. Don't have to pay to use.
+<Black-Out_Supporter> Start of a Black-Out, get 4 Rep.
+<Squirrel> Store or take 2 cards from the compound.
+
+
+<Action1> Ready all Characters a player has.
+<Action2> Stop a Jakorta Ally. Black-out only.
+<Action3> Everyone trades a card to the player on their right.
+
+<Cruizing> Gain 1 Rep and draw 1 card.
+<Brawling> Send any Character to the bottom of the Deck. Gain 3 Rep.
+<Resource3> Gain 2 Rep. Discard a card.
+
+<Jakorta1> Pry on Players with the most Rep.
+<Jakorta2> Pry on Player with most cards in Hand.
+<Jakorta3> Pry on the compound. Beat the last player to store or take a card there.
+<Jakorta4> Each Player reveals a card at random from their hand. Beat anyone with Contraband.
+<Jakorta5> Pry on any Player that discards a card.
+<Jakorta6> Pry on any Player that played a card or used a Character.
+
+<Broker> 2 Players trade f/d. You see the cards.
+<Spy> Every Player shows you a card from their hand.
+<Brute> Disregard your first Beating.
+<Scavenger> Target Player draws a card.
+<Odin> Re-arrange the top 5 cards of the deck in any order.
+<Elvis> Redistribute the total Rep of 2 Players between those Players.
